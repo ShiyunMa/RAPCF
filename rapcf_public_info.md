@@ -15,7 +15,6 @@ This document summarizes the public, non-confidential experiment settings for RA
 | evaluation frequency | 50 |
 | RL backend | Stable-Baselines3 + sb3-contrib |
 | feature extractor | HMPGNN-based topology encoder |
-
 | n_epochs | 3 |
 | gamma | 0.99 |
 | n_steps | 96 |
