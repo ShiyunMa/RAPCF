@@ -87,6 +87,8 @@ Step reward weights:
 | solved_step | 0.01 |
 
 Daily reward weights:
+| Term | Weight |
+| --- | --- |
 | total_mitigation | 1.0 |
 | total_safety | 1.0 |
 
